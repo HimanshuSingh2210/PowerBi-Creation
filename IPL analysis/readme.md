@@ -43,7 +43,7 @@
 
 1. How to connect Power BI to MS SQL server 
 2. Data Modelling with three tables
-3. Data cleaning in Power Query
+3. Data cleaning  Power Query
 4. Time Intelligence Function
 5. Creating KPI's
 6. DAX Queries
@@ -55,5 +55,5 @@
 11. Export report
 
 ## Output
-![Screenshot][(https://github.com/HimanshuSingh2210/PowerBi-Creation/blob/main/IPL%20analysis/IPL%20ANALYSIS.png)https://github.com/HimanshuSingh2210/PowerBi-Creation/blob/main/IPL%20analysis/IPL%20ANALYSIS.png]
+[(https://github.com/HimanshuSingh2210/PowerBi-Creation/blob/main/IPL%20analysis/IPL%20ANALYSIS.png)https://github.com/HimanshuSingh2210/PowerBi-Creation/blob/main/IPL%20analysis/IPL%20ANALYSIS.png]
 
