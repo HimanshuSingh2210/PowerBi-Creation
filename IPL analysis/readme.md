@@ -38,7 +38,7 @@
 6. Media
 7. Public
 
-## Power BI Functionalities you are working in :
+## Power BI Functionalities I am working in :
 
 1. How to connect Power BI to MS SQL server 
 2. Data Modelling with three tables
