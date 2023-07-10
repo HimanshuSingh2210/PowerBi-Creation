@@ -55,5 +55,4 @@
 11. Export report
 
 ## Output
-[(https://github.com/HimanshuSingh2210/PowerBi-Creation/blob/main/IPL%20analysis/IPL%20ANALYSIS.png)https://github.com/HimanshuSingh2210/PowerBi-Creation/blob/main/IPL%20analysis/IPL%20ANALYSIS.png]
-
+![IPL ANALYSIS](https://github.com/HimanshuSingh2210/PowerBi-Creation/assets/137436936/b475ade5-205f-40f2-a442-a9f3da0a2f65)
