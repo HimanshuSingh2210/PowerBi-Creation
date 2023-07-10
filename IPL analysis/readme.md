@@ -3,15 +3,14 @@
 1. Requirement Gathering
 2. Stakeholders in project
 3. Import Data in MS SQL server
-4. Import Data in PostgreSQL DB
-5. Connecting Power Bi to database
-6. Data Cleaning
-7. Data Processing
-8. Data Modelling
-9. Time Intelligence Function
-10. Data Visualization
-11. Creating Dashboard
-12. Generating Insights
+4. Connecting Power Bi to database
+5. Data Cleaning
+6. Data Processing
+7. Data Modelling
+8. Time Intelligence Function
+9. Data Visualization
+10. Creating Dashboard
+11. Generating Insights
 
 ## Problem Statement :
 
